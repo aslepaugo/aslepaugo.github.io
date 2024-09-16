@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-16T09:30:18.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="OY_YjrIxc_6skQ3_VsEn" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-16T10:00:23.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" etag="7MYgHQw5H_Rt18O1UhWT" version="24.4.9" type="github">
   <diagram name="Page-1" id="M-pqJo4O86yEx_NjYUDs">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
         <mxCell id="4ILPrFSv_3Rmti5Hysib-26" value="Booking" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" vertex="1" parent="4ILPrFSv_3Rmti5Hysib-7">
           <mxGeometry x="250" y="15" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ILPrFSv_3Rmti5Hysib-44" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="4ILPrFSv_3Rmti5Hysib-7">
+        <mxCell id="4ILPrFSv_3Rmti5Hysib-44" value="SQL Server" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="4ILPrFSv_3Rmti5Hysib-7">
           <mxGeometry x="400" y="15" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="4ILPrFSv_3Rmti5Hysib-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="4ILPrFSv_3Rmti5Hysib-7">
+        <mxCell id="4ILPrFSv_3Rmti5Hysib-45" value="Cosmos DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Cosmos_DB.svg;" vertex="1" parent="4ILPrFSv_3Rmti5Hysib-7">
           <mxGeometry x="400" y="115" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="4ILPrFSv_3Rmti5Hysib-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4ILPrFSv_3Rmti5Hysib-7" source="4ILPrFSv_3Rmti5Hysib-27" target="4ILPrFSv_3Rmti5Hysib-44">
